@@ -1,8 +1,5 @@
 ### Hello, my name is Valdir 👋
 
-** valdirsillva / valdirsillva ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears in your GitHub profile.
-
-
 - 🔭 Fullstack Developer
 - 🌱 Student and enthusiast in Software Engineering with agile methods.
 
