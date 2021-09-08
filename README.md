@@ -1,10 +1,10 @@
-### Olá, meu nome é Valdir 👋
+### Hello, my name is Valdir 👋
 
-**valdirsillva/valdirsillva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** valdirsillva / valdirsillva ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears in your GitHub profile.
 
 
-- 🔭 Desenvolvedor Fullstack
-- 🌱 Estudante e entusiasta em Engenharia de Software com métodos ágeis. 
+- 🔭 Fullstack Developer
+- 🌱 Student and enthusiast in Software Engineering with agile methods.
 
 <div>
   <a href="https://github.com/valdirsillva">
