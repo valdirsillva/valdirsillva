@@ -32,10 +32,12 @@
   <a href="mailto:valdirpiresba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/valdir-c-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+##
   
 <p align="center"> Quantidade de acesso no meu perfil desde: 11/10/2021 </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/valdirsillva/count.svg" /></p>
-<p> Obrigado pela visita );  !!! </p>  
+  ##
+<p align="center"> Obrigado pela visita );  !!! </p>  
 
   
   
