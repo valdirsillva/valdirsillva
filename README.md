@@ -15,38 +15,38 @@
 ### Technologies
   
 <div style="display:flex:flex-direction:row;flex-wrap:wrap; gap:30px;"><br>
-  <img alt="Valdir-php" style="width:80px;height:35px" src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=009688">
-  <img alt="Valdir-Js" style="width:120px;height:35px;" src="https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=javascript&logoColor=009688">  
+  <img alt="Valdir-php" style="width:80px;height:35px" src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php&logoColor=311b76">
+  <img alt="Valdir-Js" style="width:120px;height:35px;" src="https://img.shields.io/badge/JAVASCRIPT-000?style=for-the-badge&logo=javascript&logoColor=311b76">  
 
-   <img alt="Valdir-Js" style="width:100px;height:35px;" src="https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=009688">  
-  <img alt="Valdir-Python" style="width:100px;height:35px" src="https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=009688">
+   <img alt="Valdir-Js" style="width:100px;height:35px;" src="https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=311b76">  
+  <img alt="Valdir-Python" style="width:100px;height:35px" src="https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=311b76">
  
-  <img alt="Valdir-HTML" style="width:100px;height:35px" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5&logoColor=009688">
-  <img alt="Valdir-CSS" style="width:100px;height:35px" src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3&logoColor=009688">
+  <img alt="Valdir-HTML" style="width:100px;height:35px" src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5&logoColor=311b76">
+  <img alt="Valdir-CSS" style="width:100px;height:35px" src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3&logoColor=311b76">
   
-  <img alt="Valdir-Csharp" style="width:110px;height:35px" src="https://img.shields.io/badge/CSHAP-000?style=for-the-badge&logo=CSHARP&logoColor=009688">
+  <img alt="Valdir-Csharp" style="width:110px;height:35px" src="https://img.shields.io/badge/CSHAP-000?style=for-the-badge&logo=CSHARP&logoColor=311b76">
  
 </div>
 
 ### Frameworks and Libraries
 
  <div style="display:flex:flex-direction:row;flex-wrap:wrap; gap:30px;"> 
-   <img alt="Valdir-laravel" style="width:100px;height:35px" src="https://img.shields.io/badge/LARAVEL-000?style=for-the-badge&logo=laravel&logoColor=009688">  
-   <img alt="" style="width:100px;height:35px" src="https://img.shields.io/badge/BOOTSTRAP-000?style=for-the-badge&logo=BOOTSTRAP&logoColor=009688">
-   <img style="width:100px;height:35px" src="https://img.shields.io/badge/Jquery-000?style=for-the-badge&logo=Jquery&logoColor=009688" >
-   <img alt="Valdir-React" style="width:100px;height:35px" src="https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react&logoColor=009688">
-   <img style="width:100px;height:35px"  src="https://img.shields.io/badge/vue.js-000?style=for-the-badge&logo=vue.js&logoColor=009688">
-   <img style="width:100px;height:35px" alt="Valdir-Flask" style="width:100px;height:35px" src="https://img.shields.io/badge/FLASK-000?style=for-the-badge&logo=FLASK&logoColor=009688">
-   <img alt="Valdir-Django" style="width:100px;height:35px" src="https://img.shields.io/badge/DJANGO-000?style=for-the-badge&logo=&logoColor=009688">
+   <img alt="Valdir-laravel" style="width:100px;height:35px" src="https://img.shields.io/badge/LARAVEL-000?style=for-the-badge&logo=laravel&logoColor=311b76">  
+   <img alt="" style="width:100px;height:35px" src="https://img.shields.io/badge/BOOTSTRAP-000?style=for-the-badge&logo=BOOTSTRAP&logoColor=311b76">
+   <img style="width:100px;height:35px" src="https://img.shields.io/badge/Jquery-000?style=for-the-badge&logo=Jquery&logoColor=311b76" >
+   <img alt="Valdir-React" style="width:100px;height:35px" src="https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react&logoColor=311b76">
+   <img style="width:100px;height:35px"  src="https://img.shields.io/badge/vue.js-000?style=for-the-badge&logo=vue.js&logoColor=311b76">
+   <img style="width:100px;height:35px" alt="Valdir-Flask" style="width:100px;height:35px" src="https://img.shields.io/badge/FLASK-000?style=for-the-badge&logo=FLASK&logoColor=311b76">
+   <img alt="Valdir-Django" style="width:100px;height:35px" src="https://img.shields.io/badge/DJANGO-000?style=for-the-badge&logo=&logoColor=311b76">
  </div>
 
 ### Databases
 
  <div style="display:flex:flex-direction:row;flex-wrap:wrap; gap:30px;"> 
-    <img alt="Valdir-Mysql" style="width:130px;height:35px" src="https://img.shields.io/badge/MYSQL-000?style=for-the-badge&logo=MYSQL&logoColor=009688">
-    <img alt="Valdir-Postgres" style="width:100px;height:35px" src="https://img.shields.io/badge/postgres-000?style=for-the-badge&logo=postgresql&logoColor=009688">
+    <img alt="Valdir-Mysql" style="width:130px;height:35px" src="https://img.shields.io/badge/MYSQL-000?style=for-the-badge&logo=MYSQL&logoColor=311b76">
+    <img alt="Valdir-Postgres" style="width:100px;height:35px" src="https://img.shields.io/badge/postgres-000?style=for-the-badge&logo=postgresql&logoColor=311b76">
     <img alt="Valdir-Oracle" style="width:100px;height:35px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-    <img alt="Valdir-MongoDB" style="width:100px;height:35px" src="https://img.shields.io/badge/mongo-000?style=for-the-badge&logo=mongodb&logoColor=009688">
+    <img alt="Valdir-MongoDB" style="width:100px;height:35px" src="https://img.shields.io/badge/mongo-000?style=for-the-badge&logo=mongodb&logoColor=311b76">
  </div>
 
   ## Socials
