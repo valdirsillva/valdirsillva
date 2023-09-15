@@ -2,8 +2,9 @@
 
 ### Hello, my name is Valdir 👋
 
-- 🔭 Fullstack Developer
-- 🌱 Student and enthusiast in Software Engineering with agile methods.
+- 🔭 Fullstack developer
+- Postgraduate degree in Software Engineering
+- Postgraduate in Software Architecture Distributed by PUC university
 
 <div>
   <a href="https://github.com/valdirsillva">
