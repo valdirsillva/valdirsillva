@@ -6,10 +6,10 @@
 - Postgraduate degree in Software Engineering
 - Postgraduate in Software Architecture Distributed by PUC university
 
-<div>
+<div >
   <a href="https://github.com/valdirsillva">
-  <img height="256rem" src="https://github-readme-stats.vercel.app/api?username=valdirsillva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="256rem" height="256rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdirsillva&layout=compact&langs_count=20&theme=dark">
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=valdirsillva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdirsillva&layout=compact&langs_count=20&theme=dark">
   </a>
 </div>
 
